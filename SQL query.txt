@@ -1,0 +1,3 @@
+SELECT * FROM items WHERE price < 10;
+SELECT * FROM `user` WHERE Last_name ='Skey';
+UPDATE user SET First_Name='Dredi',Last_Name='Skey',username='dskey6',password='password123' WHERE password='KpJs8sk5mSUy'
